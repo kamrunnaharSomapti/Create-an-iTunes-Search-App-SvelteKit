@@ -1,3 +1,6 @@
+#How to make this?
+Just following this tutorial i followed  https://www.youtube.com/watch?v=uC6y59y4V4w&t=369s&ab_channel=this.stephie
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
